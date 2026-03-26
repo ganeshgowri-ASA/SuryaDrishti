@@ -1,0 +1,15 @@
+{
+  "powerGeneration": 42.5,
+  "reactivePower": -2.1,
+  "irradiance": 856,
+  "gridVoltage": 33.2,
+  "gridFrequency": 50.02,
+  "invertersComm": 28,
+  "invertersRunning": 26,
+  "invertersStopped": 2,
+  "inverterAvailability": 92.86,
+  "dailyEnergy": 186.4,
+  "monthlyEnergy": 4250.8,
+  "yearlyEnergy": 52180.2,
+  "lifetimeEnergy": 156.54
+}

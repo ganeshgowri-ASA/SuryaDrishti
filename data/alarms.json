@@ -1,0 +1,12 @@
+[
+  { "description": "Inverter 06 - DC Insulation Fault", "timeOn": "2026-03-26 09:15:32", "timeOff": null, "condition": "ON", "timeAck": null, "source": "INV-06" },
+  { "description": "Inverter 14 - Emergency Stop Active", "timeOn": "2026-03-26 08:42:18", "timeOff": null, "condition": "ON", "timeAck": "2026-03-26 08:45:00", "source": "INV-14" },
+  { "description": "WMS-03 - High Wind Speed Warning", "timeOn": "2026-03-26 10:05:44", "timeOff": null, "condition": "ON", "timeAck": null, "source": "WMS-03" },
+  { "description": "Tracker Block 05 - Battery Low", "timeOn": "2026-03-26 07:30:12", "timeOff": "2026-03-26 08:15:00", "condition": "OFF", "timeAck": "2026-03-26 07:35:00", "source": "TBOX-1" },
+  { "description": "SMB IS-03 String 12 - Overcurrent", "timeOn": "2026-03-26 11:22:08", "timeOff": null, "condition": "ON", "timeAck": null, "source": "SMB-03" },
+  { "description": "Grid Frequency Deviation >50.2Hz", "timeOn": "2026-03-26 06:48:55", "timeOff": "2026-03-26 06:52:30", "condition": "OFF", "timeAck": "2026-03-26 06:50:00", "source": "PPC" },
+  { "description": "Inverter 21 - Overtemperature Warning", "timeOn": "2026-03-26 12:10:33", "timeOff": null, "condition": "ON", "timeAck": null, "source": "INV-21" },
+  { "description": "Tracker Block 09 - Communication Timeout", "timeOn": "2026-03-26 09:55:21", "timeOff": null, "condition": "ON", "timeAck": null, "source": "TBOX-2" },
+  { "description": "DBox IS-07 - Outdated Firmware", "timeOn": "2026-03-26 00:00:00", "timeOff": null, "condition": "ON", "timeAck": null, "source": "DBOX-07" },
+  { "description": "Inverter 18 - Grid Voltage High", "timeOn": "2026-03-26 11:45:10", "timeOff": "2026-03-26 11:48:22", "condition": "OFF", "timeAck": "2026-03-26 11:46:00", "source": "INV-18" }
+]

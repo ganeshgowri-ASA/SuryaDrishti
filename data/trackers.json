@@ -1,0 +1,12 @@
+[
+  { "id": 1, "elevationSetpoint": 32.5, "elevationPosition": 32.4, "batteryLevel": 92, "maxMotorCurrent": 1.2, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" },
+  { "id": 2, "elevationSetpoint": 32.5, "elevationPosition": 32.6, "batteryLevel": 88, "maxMotorCurrent": 1.1, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" },
+  { "id": 3, "elevationSetpoint": 32.5, "elevationPosition": 32.3, "batteryLevel": 95, "maxMotorCurrent": 1.3, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" },
+  { "id": 4, "elevationSetpoint": 32.5, "elevationPosition": 32.5, "batteryLevel": 90, "maxMotorCurrent": 1.0, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" },
+  { "id": 5, "elevationSetpoint": 32.5, "elevationPosition": 31.8, "batteryLevel": 45, "maxMotorCurrent": 2.1, "operationMode": "TRACKING", "alarm": "BATTERY_LOW", "position": "TRACKING" },
+  { "id": 6, "elevationSetpoint": 0.0, "elevationPosition": 0.0, "batteryLevel": 85, "maxMotorCurrent": 0.0, "operationMode": "WIND_DEFENCE", "alarm": "WIND_HIGH", "position": "STOW" },
+  { "id": 7, "elevationSetpoint": 32.5, "elevationPosition": 32.4, "batteryLevel": 91, "maxMotorCurrent": 1.2, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" },
+  { "id": 8, "elevationSetpoint": 32.5, "elevationPosition": 32.5, "batteryLevel": 87, "maxMotorCurrent": 1.1, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" },
+  { "id": 9, "elevationSetpoint": 32.5, "elevationPosition": 0.0, "batteryLevel": 78, "maxMotorCurrent": 0.0, "operationMode": "COMM_FAULT", "alarm": "COMM_TIMEOUT", "position": "UNKNOWN" },
+  { "id": 10, "elevationSetpoint": 32.5, "elevationPosition": 32.6, "batteryLevel": 93, "maxMotorCurrent": 1.2, "operationMode": "TRACKING", "alarm": "NONE", "position": "TRACKING" }
+]

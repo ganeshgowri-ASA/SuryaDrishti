@@ -1,0 +1,8 @@
+[
+  { "id": 1, "solarRadiation": 856, "ambientTemp": 38.2, "humidity": 32, "pressure": 1012.5, "windDirection": 215, "windSpeed": 3.8, "rainfall": 0.0, "moduleTemps": [52.1, 51.8, 52.4], "soilingRatio": 96.2 },
+  { "id": 2, "solarRadiation": 862, "ambientTemp": 38.5, "humidity": 31, "pressure": 1012.4, "windDirection": 218, "windSpeed": 4.1, "rainfall": 0.0, "moduleTemps": [52.5, 52.0, 52.8], "soilingRatio": 95.8 },
+  { "id": 3, "solarRadiation": 848, "ambientTemp": 37.8, "humidity": 33, "pressure": 1012.6, "windDirection": 210, "windSpeed": 5.2, "rainfall": 0.0, "moduleTemps": [51.5, 51.2, 51.9], "soilingRatio": 96.5 },
+  { "id": 4, "solarRadiation": 870, "ambientTemp": 38.8, "humidity": 30, "pressure": 1012.3, "windDirection": 220, "windSpeed": 3.5, "rainfall": 0.0, "moduleTemps": [53.0, 52.6, 53.2], "soilingRatio": 95.5 },
+  { "id": 5, "solarRadiation": 852, "ambientTemp": 38.0, "humidity": 32, "pressure": 1012.5, "windDirection": 212, "windSpeed": 4.0, "rainfall": 0.0, "moduleTemps": [51.8, 51.5, 52.2], "soilingRatio": 96.0 },
+  { "id": 6, "solarRadiation": 844, "ambientTemp": 37.5, "humidity": 34, "pressure": 1012.7, "windDirection": 208, "windSpeed": 4.5, "rainfall": 0.0, "moduleTemps": [51.2, 50.8, 51.5], "soilingRatio": 96.8 }
+]
